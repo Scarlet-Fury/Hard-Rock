@@ -1,0 +1,19 @@
+{
+  "type": "rocks:add_features_with_blacklist",
+  "blacklist": [
+    "#forge:is_snowy"
+  ],
+  "features": "rocks:seashell",
+  "step": "top_layer_modification",
+  "whitelist": [
+    "minecraft:beach",
+    "minecraft:snowy_beach",
+    "minecraft:stony_shore",
+    "terralith:white_cliffs",
+    "terralith:granite_cliffs",
+    "terralith:gravel_beach",
+    "terralith:basalt_cliffs",
+    "biomesoplenty:tropics",
+    "biomesoplenty:dune_beach"
+  ]
+}
