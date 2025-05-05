@@ -1,0 +1,13 @@
+{
+  "type": "rocks:add_features_with_blacklist",
+  "blacklist": [],
+  "features": "rocks:cherry_stick",
+  "step": "top_layer_modification",
+  "whitelist": [
+    "terralith:sakura_grove",
+    "terralith:sakura_valley",
+    "terralith:snowy_cherry_grove",
+    "minecraft:cherry_grove",
+    "biomesoplenty:snowblossom_grove"
+  ]
+}
