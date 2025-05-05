@@ -1,0 +1,18 @@
+{
+  "type": "rocks:add_features_with_blacklist",
+  "blacklist": [],
+  "features": "rocks:jungle_stick",
+  "step": "top_layer_modification",
+  "whitelist": [
+    "minecraft:jungle",
+    "minecraft:sparse_jungle",
+    "minecraft:bamboo_jungle",
+    "terralith:jungle_mountains",
+    "terralith:rocky_jungle",
+    "terralith:tropical_jungle",
+    "biomesoplenty:fungal_jungle",
+    "biomesoplenty:rainforest",
+    "biomesoplenty:rocky_rainforest",
+    "biomesoplenty:tropics"
+  ]
+}
