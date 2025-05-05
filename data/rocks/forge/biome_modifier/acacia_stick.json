@@ -1,0 +1,22 @@
+{
+  "type": "rocks:add_features_with_blacklist",
+  "blacklist": [],
+  "features": "rocks:acacia_stick",
+  "step": "top_layer_modification",
+  "whitelist": [
+    "terralith:arid_highlands",
+    "terralith:ashen_savanna",
+    "terralith:fractured_savanna",
+    "terralith:hot_shrubland",
+    "terralith:savanna_badlands",
+    "terralith:savanna_slopes",
+    "minecraft:savanna",
+    "minecraft:windswept_savanna",
+    "minecraft:savanna_plateau",
+    "biomesoplenty:dryland",
+    "biomesoplenty:lush_desert",
+    "biomesoplenty:lush_savanna",
+    "biomesoplenty:wasteland",
+    "biomesoplenty:wasteland_steppe"
+  ]
+}
