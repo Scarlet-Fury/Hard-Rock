@@ -1,0 +1,16 @@
+{
+  "type": "rocks:add_features_with_blacklist",
+  "blacklist": [],
+  "features": "rocks:endstone_rock",
+  "step": "top_layer_modification",
+  "whitelist": [
+    "biomesoplenty:end_corruption",
+    "biomesoplenty:end_reef",
+    "biomesoplenty:end_wilds",
+    "minecraft:the_end",
+    "minecraft:end_barrens",
+    "minecraft:end_highlands",
+    "minecraft:end_midlands",
+    "minecraft:small_end_islands"
+  ]
+}
