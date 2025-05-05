@@ -1,0 +1,15 @@
+{
+  "type": "rocks:add_features_with_blacklist",
+  "blacklist": [],
+  "features": "rocks:dark_oak_stick",
+  "step": "top_layer_modification",
+  "whitelist": [
+    "minecraft:dark_forest",
+    "terralith:siberian_grove",
+    "terralith:siberian_taiga",
+    "terralith:valley_clearing",
+    "biomesoplenty:pumpkin_patch",
+    "biomesoplenty:seasonal_forest",
+    "biomesoplenty:seasonal_orchard"
+  ]
+}
