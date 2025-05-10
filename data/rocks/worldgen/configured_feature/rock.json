@@ -84,7 +84,7 @@
       ]
     },
     "tries": 1024,
-    "xz_spread": 0.1,
+    "xz_spread": 5,
     "y_spread": 0
   }
 }
